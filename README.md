@@ -107,13 +107,6 @@ Staff Software Engineer with 9+ years of experience in developing scalable, user
 - 91% of clients expressed willingness to recommend services
 - 100% of clients indicated desire for future collaboration
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haroondilshad&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroondilshad&theme=tokyonight" alt="GitHub Streak" height="170" />
-</div>
-
 ## 📚 Education
 
 **SEECS - NUST, Islamabad, Pakistan**  
