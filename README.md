@@ -1,8 +1,8 @@
 # Haroon Dilshad
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Staff-Software%20Engineer-blue" alt="Staff Software Engineer"/>
-  <img src="https://img.shields.io/badge/Experience-9%2B%20Years-green" alt="9+ Years Experience"/>
+  <img src="https://img.shields.io/badge/CTO%20%26%20Co--Founder-DevNinja%20%2F%20OpsNinja-blue" alt="CTO & Co-Founder"/>
+  <img src="https://img.shields.io/badge/Experience-11%2B%20Years-green" alt="11+ Years Experience"/>
   <img src="https://img.shields.io/badge/Location-Berlin%2C%20Germany-red" alt="Berlin, Germany"/>
 </div>
 
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Staff Software Engineer with 9+ years of experience in developing scalable, user-centric solutions. Skilled in leading teams, optimizing processes, and implementing technical solutions that align with business objectives.
+CTO & Co-Founder with 11+ years of experience building scalable, user-centric software. From leading distributed engineering teams to leveraging agentic AI for rapid product delivery, I combine deep technical expertise with a founder's lens on shipping fast and shipping right.
 
 ## 🚀 Key Strengths
 
@@ -72,12 +72,27 @@ Staff Software Engineer with 9+ years of experience in developing scalable, user
 
 ## 🌟 Experience
 
+### Co-Founder & CTO @ DevNinja / OpsNinja, The Hague, Netherlands (Remote)
+*Nov 2024—Feb 2026*
+- Co-founded a dual-brand software consultancy and engineering staffing firm, serving PropTech, FinTech, and AI startups
+- Pioneered an agentic AI-driven development methodology that dramatically compressed delivery timelines
+- Delivered end-to-end product builds for a stealth-mode AI platform in the private equity intelligence space
+- Scaled distributed teams and embedded senior talent at high-growth startups to accelerate go-to-market
+
 ### Staff Engineer @ HeartbeatMed, Berlin, Germany
 *Feb 2024—Aug 2024*
 - Implemented end-to-end and integration testing strategies, improving overall product quality and reducing bug discovery time
 - Implemented preview environment seeding process, reducing setup time from multiple developer hours to minutes
 - Developed automations for routine tasks, increasing team productivity
 - Architected and implemented spotlight search functionality, improving user experience and search accuracy
+
+### Open Source Contributor
+*2019—Present*
+- Contributor to [LuLu](https://github.com/objective-see/LuLu) (12k+ ⭐), the leading open-source macOS firewall
+- Built [devpod-provider-oracle-cloud](https://github.com/haroondilshad/devpod-provider-oracle-cloud), a DevPod provider for Oracle Cloud Infrastructure
+- Contributor to [CloudStream](https://github.com/recloudstream/cloudstream) (8.9k+ ⭐), an open-source Android media platform
+- Extended [serverless-dns](https://github.com/haroondilshad/serverless-dns) (RethinkDNS), a privacy-first DNS resolver for edge runtimes
+- Developing [tauri-etcher](https://github.com/haroondilshad/tauri-etcher), a Tauri-based reimagining of Balena Etcher
 
 ### Senior Full Stack Developer & Technical Team Lead @ BuildingMinds GmbH, Berlin, Germany
 *2019—Jan 2024*
