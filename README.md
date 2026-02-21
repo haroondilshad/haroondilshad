@@ -1,7 +1,7 @@
 # Haroon Dilshad
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CTO%20%26%20Co--Founder-DevNinja%20%2F%20OpsNinja-blue" alt="CTO & Co-Founder"/>
+  <img src="https://img.shields.io/badge/Senior%20Product%20Engineer-11%2B%20Years-blue" alt="Senior Product Engineer"/>
   <img src="https://img.shields.io/badge/Experience-11%2B%20Years-green" alt="11+ Years Experience"/>
   <img src="https://img.shields.io/badge/Location-Berlin%2C%20Germany-red" alt="Berlin, Germany"/>
 </div>
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-CTO & Co-Founder with 11+ years of experience building scalable, user-centric software. From leading distributed engineering teams to leveraging agentic AI for rapid product delivery, I combine deep technical expertise with a founder's lens on shipping fast and shipping right.
+Senior Product Engineer with 11+ years of experience building scalable, user-centric software. From leading distributed engineering teams to leveraging agentic AI for rapid product delivery, I combine deep technical expertise with a founder's lens on shipping fast and shipping right.
 
 ## 🚀 Key Strengths
 
